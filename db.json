@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "imgUrl": "https://startertemplatecloud.com/g02/wp-content/uploads/sites/11/2020/10/t-shirt-04.jpg",
+      "title": "Silk Blouse Ivory Dream",
+      "description": "Luxurious silk blouse in a dreamy ivory shade. Features a relaxed fit with a slightly oversized silhouette. Adorned with mother-of-pearl buttons down the front. Includes a subtle mandarin collar for added elegance. Perfect for both office wear and evening events.",
+      "price": 450000,
+      "stock": 5
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://startertemplatecloud.com/g02/wp-content/uploads/sites/11/2020/10/t-shirt-03.jpg",
+      "title": "Denim Jacket Vintage Wash",
+      "description": "Classic denim jacket with a vintage wash for a lived-in look. Features traditional button-front closure and chest pockets. Made from durable, high-quality denim that gets better with age. Slightly cropped length for a modern silhouette. Versatile piece that pairs well with any outfit.",
+      "price": 520000,
+      "stock": 8
+    },
+    {
+      "id": "4",
+      "imgUrl": "https://startertemplatecloud.com/g02/wp-content/uploads/sites/11/2020/10/t-shirt-02.jpg",
+      "title": "Cashmere Sweater Forest Green",
+      "description": "Luxuriously soft cashmere sweater in a rich forest green hue. Features a classic crew neck and ribbed cuffs and hem. Offers warmth without bulk, perfect for chilly days. Timeless design that never goes out of style. Can be dressed up or down for various occasions.",
+      "price": 680000,
+      "stock": 4
+    },
+    {
+      "id": "5",
+      "imgUrl": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-hoodie1-300x300.jpg",
+      "title": "Linen Palazzo Pants Sand",
+      "description": "Flowy palazzo pants made from breathable linen in a neutral sand color. Features a high-waisted design with a wide-leg silhouette. Includes side pockets and an elasticated back waistband for comfort. Perfect for warm weather and beach vacations. Pairs well with both casual and dressy tops.",
+      "price": 420000,
+      "stock": 6
+    },
+    {
+      "id": "6",
+      "imgUrl": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-hoodie2-300x300.jpg",
+      "title": "Leather Moto Jacket Black",
+      "description": "Edgy black leather moto jacket with silver hardware accents. Features an asymmetrical zip front and notched lapels. Includes zippered cuffs and multiple pockets for functionality. Made from premium, butter-soft leather that molds to your body. A timeless piece that adds instant cool to any outfit.",
+      "price": 890000,
+      "stock": 3
+    },
+    {
+      "id": "7",
+      "imgUrl": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-hoodie3-300x300.jpg",
+      "title": "Floral Maxi Dress Boho Chic",
+      "description": "Bohemian-inspired maxi dress featuring a vibrant floral print. Has a flowing silhouette with a V-neckline and adjustable waist tie. Made from lightweight, breathable fabric perfect for summer. Includes delicate ruffle details on the sleeves and hem. Ideal for beach days or casual outdoor events.",
+      "price": 550000,
+      "stock": 7
+    },
+    {
+      "id": "8",
+      "imgUrl": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-hoodie4.jpg-300x300.jpg",
+      "title": "Tailored Blazer Navy Pinstripe",
+      "description": "Sophisticated navy blazer with subtle pinstripes for a polished look. Features a single-button closure and notched lapels. Includes a chest pocket and two flap pockets at the hips. Fully lined with a back vent for ease of movement. Perfect for elevating both office and casual outfits.",
+      "price": 720000,
+      "stock": 4
+    },
+    {
+      "id": "9",
+      "imgUrl": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/tshirt3-300x300.jpg",
+      "title": "Knit Midi Skirt Camel",
+      "description": "Sleek midi skirt in a versatile camel color, made from a soft, stretchy knit fabric. Features a high waist and body-hugging silhouette. Has a subtle side slit for ease of movement. Ribbed texture adds visual interest to the piece. Can be styled for both work and weekend wear.",
+      "price": 350000,
+      "stock": 6
+    },
+    {
+      "id": "10",
+      "imgUrl": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/tshirt7-300x300.jpg",
+      "title": "Satin Camisole Blush Pink",
+      "description": "Delicate satin camisole in a soft blush pink hue. Features thin adjustable straps and a cowl neckline. Made from smooth, lustrous fabric that drapes beautifully. Includes a subtle lace trim along the neckline and hem. Perfect for layering or wearing alone on warm evenings.",
+      "price": 280000,
+      "stock": 8
+    },
+    {
+      "id": "11",
+      "imgUrl": "https://startertemplatecloud.com/g02/wp-content/uploads/sites/11/2020/10/t-shirt-04-300x300.jpg",
+      "title": "Wide-Leg Trousers Charcoal",
+      "description": "Sophisticated wide-leg trousers in a versatile charcoal gray. Features a high waist with belt loops and a zip fly closure. Made from a wool blend fabric with a slight stretch for comfort. Includes side pockets and back welt pockets for functionality. Perfect for office wear or formal events.",
+      "price": 490000,
+      "stock": 5
+    },
+    {
+      "id": "12",
+      "imgUrl": "https://startersites.io/blocksy/garderobe/wp-content/uploads/2021/12/shop-item-7_optimized-300x348.webp",
+      "title": "Oversized Sweater Oatmeal",
+      "description": "Cozy oversized sweater in a neutral oatmeal color. Features a relaxed fit with dropped shoulders and ribbed cuffs. Made from a soft, chunky knit fabric that's perfect for chilly days. Has a slightly cropped length that pairs well with high-waisted bottoms. Ideal for casual, everyday wear.",
+      "price": 420000,
+      "stock": 7
+    },
+    {
+      "id": "13",
+      "imgUrl": "https://outsiders-outsiders.myshopify.com/cdn/shop/files/04-hoodies.jpg?v=1720784028&width=940",
+      "title": "Arctic White Hoodie",
+      "description": "Explore our diverse collection of trendy and cozy clothing essentials, featuring a variety of bottoms, hats, hoodies, and tops. Perfect for enhancing your daily style with ease and sophistication.",
+      "price": 420000,
+      "stock": 7
+    },
+    {
+      "id": "14",
+      "imgUrl": "https://outsiders-outsiders.myshopify.com/cdn/shop/files/05-hoodies.jpg?v=1720784165&width=940",
+      "title": "Black Stitch Hoodie",
+      "description": "Explore our diverse collection of trendy and cozy clothing essentials, featuring a variety of bottoms, hats, hoodies, and tops. Perfect for enhancing your daily style with ease and sophistication.",
+      "price": 420000,
+      "stock": 7
+    }
+  ]
+}
